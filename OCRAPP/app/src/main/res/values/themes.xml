@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.OCRAPP" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/yellow</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/purple</item>
+
+        <item name="android:statusBarColor">@color/blue</item>
+
+
+    </style>
+
+</resources>

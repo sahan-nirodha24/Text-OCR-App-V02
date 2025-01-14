@@ -44,3 +44,5 @@
 + **Reset**
   + The user can reset the app to its initial state by clicking the “Clear” button.
   + The app clears the displayed text and resets the image to a default placeholder.
+ 
+### Screenshots Of the Text OCR App Version 02 ###

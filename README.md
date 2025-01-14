@@ -46,3 +46,15 @@
   + The app clears the displayed text and resets the image to a default placeholder.
  
 ### Screenshots Of the Text OCR App Version 02 ###
+
+Splash Screen of the App on the Android Emulator
+![Screenshot 2025-01-14 234111](https://github.com/user-attachments/assets/c89b49a2-0739-414c-aadb-2850be135aad)
+
+Main Page of the App - Default View on the Android Emulator
+![Screenshot 2025-01-14 234121](https://github.com/user-attachments/assets/a4a4b93b-39ae-4efa-9d90-1eb28dcc9221)
+
+After Capturing the Image, The Main Page View is Displayed on the Android Emulator
+![Screenshot 2025-01-14 234135](https://github.com/user-attachments/assets/9d8db34c-833a-44d5-9d10-8477a8cd6f9e)
+
+After Pressing the Reset Button, The Main Page View is Displayed on the Android Emulator
+![Screenshot 2025-01-14 234121](https://github.com/user-attachments/assets/a4a4b93b-39ae-4efa-9d90-1eb28dcc9221)
